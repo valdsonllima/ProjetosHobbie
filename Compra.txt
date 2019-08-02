@@ -1,0 +1,8 @@
+public class compra{
+   public void Buscar();
+
+   public void EfetuarPagamento();
+
+   public void VerExtrato();
+
+}
