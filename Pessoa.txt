@@ -1,0 +1,9 @@
+public class Pessoa {
+string nome; 
+string cpf;
+int fone;
+Public Pessoa()
+{
+  
+}
+}
